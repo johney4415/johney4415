@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I am Johney
 
 <!--
 **johney4415/johney4415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
